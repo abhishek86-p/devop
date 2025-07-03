@@ -1,0 +1,36 @@
+/* style.css */
+
+/* Basic reset and font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Body style */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 40px;
+    line-height: 1.6;
+}
+
+/* Heading style */
+h1 {
+    color: #1e90ff;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Paragraph style */
+p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    border-left: 4px solid #1e90ff;
+    background-color: #ffffff;
+    padding: 10px 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
